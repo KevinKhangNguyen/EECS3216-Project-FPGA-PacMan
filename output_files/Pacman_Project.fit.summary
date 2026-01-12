@@ -1,0 +1,18 @@
+Fitter Status : Successful - Wed Apr 23 17:10:56 2025
+Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name : Pacman_Project
+Top-level Entity Name : pacman_top
+Family : MAX 10
+Device : 10M50DAF484C6GES
+Timing Models : Preliminary
+Total logic elements : 1,496 / 49,760 ( 3 % )
+    Total combinational functions : 1,491 / 49,760 ( 3 % )
+    Dedicated logic registers : 142 / 49,760 ( < 1 % )
+Total registers : 142
+Total pins : 121 / 360 ( 34 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,677,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )
